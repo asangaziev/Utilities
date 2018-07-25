@@ -29,5 +29,6 @@ public class Config {
 	public static String getPropertyValue(String key) {
 		return properties.getProperty(key);
 	}
-//this change made to git
+//this change made to gi
+//created jan branch
 }
